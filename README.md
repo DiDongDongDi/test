@@ -3,4 +3,6 @@ test
 
 changed
 
+web add
+
 local add
